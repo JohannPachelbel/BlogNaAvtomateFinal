@@ -52,7 +52,7 @@ function App() {
     },
     {
       id: 6,
-      title: "Нейрфото и графический дизайн на ПК: Recraft, Krea, Fooocus",
+      title: "Нейрофото и графический дизайн на ПК: Recraft, Krea, Fooocus",
       content: "Работа в Recraft, Kling, Dreamina. Удаление водяных знаков. Пересадка лица в Deep Swapper. Доработка в Fooocus.",
       color: "from-blue-100 to-blue-200"
     },
